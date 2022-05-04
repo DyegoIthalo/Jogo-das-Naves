@@ -1,2 +1,4 @@
-# Jogo-das-Naves
-Órbi Web Games Developer - Criação jogo da naves
+# Jogo de Naves :helicopter:
+Órbi Web Games Developer - Criação jogo de naves
+
+- Objetivo: salvar o fugitivo :runner:
